@@ -1,17 +1,17 @@
 # Motion-Activated-Light
 
-🌟 Smart Motion-Activated Light with ESP32 + IoT Control 🌟
+ Smart Motion-Activated Light with ESP32 + IoT Control 
 
 ---
 
-## 🧠 What You'll Build:
+##  What You'll Build:
 - A light that turns on when motion is detected.  
 - Switch between Auto Mode (motion-controlled) and Manual Mode (controlled from your phone or PC).  
 - Monitor and control it using Arduino IoT Cloud.
 
 ---
 
-## 🧰 What You Need:
+##  What You Need:
 
 | Component                     | Quantity |
 |------------------------------|----------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔌 Wiring:
+##  Wiring:
 
 ### PIR Sensor → ESP32
 - VCC → 3.3V or 5V (preferable)  
@@ -39,7 +39,7 @@
 
 ---
 
-## ☁️ Step 1: Setup Arduino IoT Cloud
+##  Step 1: Setup Arduino IoT Cloud
 
 1. Go to Arduino IoT Cloud  
 2. Create a new Thing  
@@ -53,7 +53,7 @@
 
 ---
 
-## 📱 Step 2: Create Your Dashboard
+##  Step 2: Create Your Dashboard
 
 1. Go to **Dashboards** in Arduino IoT Cloud  
 2. Create a new dashboard and add:  
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Step 3: Upload and Test
+##  Step 3: Upload and Test
 
 1. Plug in your ESP32  
 2. Install drivers if needed  
@@ -74,7 +74,7 @@
 
 ---
 
-## ✅ How It Works
+##  How It Works
 
 | Mode         | Behavior                                           |
 |--------------|----------------------------------------------------|
@@ -83,7 +83,7 @@
 
 ---
 
-## 💡 Extras You Can Add Later
+##  Extras You Can Add Later
 
 1. Notifications when motion is detected  
 2. Real light bulb via relay  
