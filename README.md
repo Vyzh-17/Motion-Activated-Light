@@ -86,7 +86,10 @@
 
 1. Notifications when motion is detected  
 2. Real light bulb via relay  
-3. Motion logs stored to the cloud  
+3. Motion logs stored to the cloud
+
+## Download driver - (CP210x_universal_windows_driver) connection of esp32.
+
 
 
 
