@@ -46,9 +46,10 @@
 3. Add your ESP32 device  
 4. Add these variables:  
    - `led` → type: Cloud Boolean, sync: Yes  
-   - `autoModeCloud` → type: Cloud Boolean, sync: Yes  
-5. Click on Sketch and it will auto-generate `thingProperties.h`  
-6. In the generated sketch, paste the code:
+   - `autoModeCloud` → type: Cloud Boolean, sync: Yes 
+5. Click on Sketch and it will auto-generate `thingProperties.h`
+6. Download Arduino-Cloud-agent.
+7. In the generated sketch, paste the code:
 
 ---
 
@@ -88,7 +89,7 @@
 2. Real light bulb via relay  
 3. Motion logs stored to the cloud
 
-## Download driver - (CP210x_universal_windows_driver) connection of esp32.
+## Download driver - (CP210x_universal_windows_driver) important for the connection of esp32.
 
 
 
